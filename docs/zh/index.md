@@ -2,9 +2,12 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+title: "红枫云盘"
+titleTemplate: "多协议云盘文件管理"
+
 hero:
   name: "红枫云盘"
-  text: "多协议云盘文件上传和管理"
+  text: "多协议云盘文件管理"
   tagline: |
     红枫云盘是一款无服务端的多协议云盘文件上传和管理软件，提供了文件上传、预览、操作、同步备份等功能
   actions:

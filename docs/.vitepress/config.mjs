@@ -7,6 +7,9 @@ export default defineConfig({
     rewrites: {
         'zh/:rest*': ':rest*'
     },
+    head: [
+        ['link', { rel: 'icon', type: 'image/png', href: '/images/favicon.png' }]
+    ],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         logo: '/images/logo.png',

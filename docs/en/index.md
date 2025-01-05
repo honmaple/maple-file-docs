@@ -2,9 +2,12 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
+title: "Maple File"
+titleTemplate: "Multi-protocol cloud file management"
+
 hero:
   name: "Maple File"
-  text: "Multi-protocol cloud file upload and management"
+  text: "Multi-protocol cloud file management"
   tagline: |
     Maple File is a server-free multi-protocol cloud file upload and management software that provides file upload, preview, operation, synchronous backup and other features
   actions:

@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export const en = defineConfig({
     lang: "en-US",
     title: "Maple File",
-    description: "upload and manage multi cloud storage with serverless",
+    description: "Multi-protocol cloud file management",
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
