@@ -7,39 +7,39 @@ export const en = defineConfig({
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'FAQ', link: '/zh/faq' },
+            { text: 'FAQ', link: '/en/guide/faq' },
         ],
         siteTitle: 'Maple File',
         sidebar: [
             {
                 text: 'Features',
                 items: [
-                    { text: 'File Compress', link: '/zh/todo' },
-                    { text: 'File Encrypt', link: '/zh/todo' },
+                    { text: 'File Compress', link: '/en/guide/todo' },
+                    { text: 'File Encrypt', link: '/en/guide/todo' },
                     {
                         text: 'File Sync',
                         collapsed: true,
                         items: [
-                            { text: 'Sync', link: '/zh/todo' },
-                            { text: 'Backup', link: '/zh/todo' },
+                            { text: 'Sync', link: '/en/guide/todo' },
+                            { text: 'Backup', link: '/en/guide/todo' },
                         ]
                     },
-                    { text: 'Recycle Bin', link: '/zh/todo' },
-                    { text: 'FAQ', link: '/zh/todo' },
+                    { text: 'Recycle Bin', link: '/en/guide/todo' },
+                    { text: 'FAQ', link: '/en/guide/todo' },
                 ]
             },
             {
                 text: 'Driver Types',
                 collapsed: true,
                 items: [
-                    { text: 'S3', link: '/zh/todo' },
-                    { text: 'SMB', link: '/zh/todo' },
-                    { text: 'FTP', link: '/zh/todo' },
-                    { text: 'SFTP', link: '/zh/todo' },
-                    { text: 'Alist', link: '/zh/todo' },
-                    { text: 'Mirror', link: '/zh/todo' },
-                    { text: 'Webdav', link: '/zh/todo' },
-                    { text: 'upyun', link: '/zh/todo' },
+                    { text: 'S3', link: '/en/guide/todo' },
+                    { text: 'SMB', link: '/en/guide/todo' },
+                    { text: 'FTP', link: '/en/guide/todo' },
+                    { text: 'SFTP', link: '/en/guide/todo' },
+                    { text: 'Alist', link: '/en/guide/todo' },
+                    { text: 'Mirror', link: '/en/guide/todo' },
+                    { text: 'Webdav', link: '/en/guide/todo' },
+                    { text: 'upyun', link: '/en/guide/todo' },
                 ]
             }
         ],

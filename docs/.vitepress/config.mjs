@@ -14,7 +14,7 @@ export default defineConfig({
             provider: 'local'
         },
         footer: {
-            copyright: '© 2024-present <a href="https://github.com/honmaple/maple-file">honmaple</a> · <a href="https://github.com/honmaple/maple-file/blob/master/LICENSE">GPL-3.0 Licensed</a>'
+            copyright: '© 2024-present <a href="https://github.com/honmaple/maple-file">honmaple</a>'
         }
     },
     locales: {

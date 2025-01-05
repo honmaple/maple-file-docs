@@ -7,39 +7,39 @@ export const zh = defineConfig({
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
-            { text: '常见问题', link: '/zh/faq' },
+            { text: '常见问题', link: '/guide/faq' },
         ],
         siteTitle: '红枫云盘',
         sidebar: [
             {
                 text: '功能列表',
                 items: [
-                    { text: '文件压缩', link: '/zh/todo' },
-                    { text: '文件加密', link: '/zh/todo' },
+                    { text: '文件压缩', link: '/guide/todo' },
+                    { text: '文件加密', link: '/guide/todo' },
                     {
                         text: '文件同步',
                         collapsed: true,
                         items: [
-                            { text: '同步', link: '/zh/todo' },
-                            { text: '备份', link: '/zh/todo' },
+                            { text: '同步', link: '/guide/todo' },
+                            { text: '备份', link: '/guide/todo' },
                         ]
                     },
-                    { text: '回收站', link: '/zh/todo' },
-                    { text: '常见问题', link: '/zh/todo' },
+                    { text: '回收站', link: '/guide/todo' },
+                    { text: '常见问题', link: '/guide/todo' },
                 ]
             },
             {
                 text: '存储类型',
                 collapsed: true,
                 items: [
-                    { text: 'S3', link: '/zh/todo' },
-                    { text: 'SMB', link: '/zh/todo' },
-                    { text: 'FTP', link: '/zh/todo' },
-                    { text: 'SFTP', link: '/zh/todo' },
-                    { text: 'Alist', link: '/zh/todo' },
-                    { text: 'Mirror', link: '/zh/todo' },
-                    { text: 'Webdav', link: '/zh/todo' },
-                    { text: '又拍云', link: '/zh/todo' },
+                    { text: 'S3', link: '/guide/todo' },
+                    { text: 'SMB', link: '/guide/todo' },
+                    { text: 'FTP', link: '/guide/todo' },
+                    { text: 'SFTP', link: '/guide/todo' },
+                    { text: 'Alist', link: '/guide/todo' },
+                    { text: 'Mirror', link: '/guide/todo' },
+                    { text: 'Webdav', link: '/guide/todo' },
+                    { text: '又拍云', link: '/guide/todo' },
                 ]
             }
         ],

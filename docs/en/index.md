@@ -4,31 +4,35 @@ layout: home
 
 hero:
   name: "Maple File"
-  text: "manage multi cloud storage"
+  text: "Multi-protocol cloud file upload and management"
   tagline: |
-    Support webdav、s3、webdav、ftp、sftp、smb、upyun、alist
+    Maple File is a server-free multi-protocol cloud file upload and management software that provides file upload, preview, operation, synchronous backup and other features
   actions:
     - theme: brand
       text: Download
-      link: /#downloads
+      link: https://github.com/honmaple/maple-file/releases
     - theme: alt
       text: Documents
-      link: /zh/todo
-    - theme: alt
-      text: View On GitHub
-      link: https://github.com/honmaple/maple-file
+      link: /en/guide/todo
 
 features:
-  - title: 跨平台
-    details: 支持Web、Android和MacOS
-  - title: 文件预览
-    details: 支持视频、音频、图片和文本文件的预览
-  - title: 回收站
-    details: 文件误删除也能重新恢复
-  - title: 文件加密和压缩
-    details: 上传的文件再也不用担心变成8秒小视频
-  - title: 文件同步和备份
-    details: 支持各存储之间的备份和同步
-  - title: 多语言支持
-    details: 中文、English
+  - title: Open Source
+    details: The complete source code of Maple File is hosted on Github. You can view and use it freely without worrying about the software being backdoored.
+    link: https://github.com/honmaple/maple-file
+  - title: Cross-platform
+    details: Supports Web, Android, and MacOS
+  - title: Multi-protocol
+    details: Supports Local、S3、Webdav、FTP、SFTP、SMB、UPYUN、Alist、Mirror
+  - title: File Preview
+    details: Support preview of video, audio, picture and text files
+  - title: File Encrypt/Compress
+    details: Protect your privacy and prevent your files from being leaked or censored through AES encryption technology
+  - title: File Sync/Backup
+    details: Support backup and synchronization between storages
+  - title: Recycle Bin
+    details: Files accidentally deleted can be restored
+  - title: Multilingual
+    details: Supports Chinese、English
+  - title: Multiple Themes
+    details: Support multiple color theme switching
 ---
