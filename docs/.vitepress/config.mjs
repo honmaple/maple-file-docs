@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { zh } from './locale/zh'
 import { en } from './locale/en'
+import markdownItTaskLists from 'markdown-it-task-lists'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -30,4 +31,9 @@ export default defineConfig({
             ...en
         },
     },
+    markdown: {
+        config: (md) => {
+            md.use(markdownItTaskLists)
+        }
+    }
 })

@@ -16,14 +16,14 @@ hero:
       link: https://github.com/honmaple/maple-file/releases
     - theme: alt
       text: 帮助文档
-      link: /guide/todo
+      link: /guide/introduction
 
 features:
   - title: 开源
     details: 软件的完整源代码托管在Github，你可以自由查看并使用，无需担心软件被植入后门
     link: https://github.com/honmaple/maple-file
   - title: 跨平台
-    details: 支持Web、Android和MacOS
+    details: 支持Web、Android、MacOS和Windows
   - title: 多协议
     details: 支持本地存储、S3、Webdav、FTP、SFTP、SMB、又拍云、Alist、Mirror
   - title: 文件预览

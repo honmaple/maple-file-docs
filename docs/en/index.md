@@ -23,7 +23,7 @@ features:
     details: The complete source code of Maple File is hosted on Github. You can view and use it freely without worrying about the software being backdoored.
     link: https://github.com/honmaple/maple-file
   - title: Cross-platform
-    details: Supports Web, Android, and MacOS
+    details: Supports Web, Android, MacOS, Windows
   - title: Multi-protocol
     details: Supports Local、S3、Webdav、FTP、SFTP、SMB、UPYUN、Alist、Mirror
   - title: File Preview
