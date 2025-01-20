@@ -1,85 +1,12 @@
-# Markdown Extension Examples
+# 常见问题
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+## 看不到添加存储的按钮？
+可能需要往下拉一拉或者滑一滑。。。
 
-## Syntax Highlighting
+## 挂载目录和根目录的区别？
+**挂载目录**是指红枫云盘挂载位置的显示目录，比如一个名为 **bbb** 的存储，挂载目录为 `/` 表示该存储将会在软件第一页显示，打开 `bbb` 即可访问该存储；挂载目录为 `/aaa/ccc` 表示该存储将会挂载并显示到 `/aaa/ccc/bbb` 位置，只能通过打开`aaa` -> `ccc` -> `bbb` 才能访问到该存储
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
+**根目录**是指当前存储的指定子目录
 
-**Input**
-
-````md
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
-
-**Output**
-
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-
-## Custom Containers
-
-**Input**
-
-```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
-
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-
-## More
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+## 如何挂载存储的指定目录？
+比如挂载本地目录的某个子目录，在设置好本地目录 `/home/xxx/app` 后，选择 **更多设置**，然后添加想要挂载的子目录，比如 `/a/b`，设置好后存储就只能访问 `/home/xxx/app/a/b` 目录下的文件
