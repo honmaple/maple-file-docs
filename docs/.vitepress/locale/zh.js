@@ -24,16 +24,8 @@ export const zh = defineConfig({
                 text: '功能列表',
                 items: [
                     { text: '文件预览', link: '/guide/features/preview' },
-                    { text: '文件压缩', link: '/guide/features/compress' },
                     { text: '文件加密', link: '/guide/features/encrypt' },
-                    {
-                        text: '文件同步',
-                        collapsed: true,
-                        items: [
-                            { text: '同步', link: '/guide/todo' },
-                            { text: '备份', link: '/guide/todo' },
-                        ]
-                    },
+                    { text: '文件压缩', link: '/guide/features/compress' },
                     { text: '回收站', link: '/guide/features/recycle' },
                 ]
             },
