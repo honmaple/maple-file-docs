@@ -1,9 +1,13 @@
 <div align="center">
-<img src="/images/logo.png" width="150" />
+  <img src="/images/logo.png" width="150" />
 </div>
-<div align="center" style="display: flex;">
-<img src="https://img.shields.io/badge/release-1.0.1-brightgreen.svg">
-<img src="https://img.shields.io/badge/license-GPL3.0-blue.svg">
+<div style="display: flex;justify-content: center;gap: 4px;">
+  <a href="https://github.com/honmaple/maple-file/releases/tag/v1.0.2" target="_blank">
+    <img src="https://img.shields.io/badge/release-1.0.2-brightgreen.svg">
+  </a>
+  <a href="https://github.com/honmaple/maple-file/blob/master/LICENSE" target="_blank">
+    <img src="https://img.shields.io/badge/license-GPL3.0-blue.svg">
+  </a>
 </div>
 
 
