@@ -14,6 +14,8 @@ export const en = defineConfig({
             {
                 text: 'Features',
                 items: [
+                    { text: 'File Preview', link: '/en/guide/todo' },
+                    { text: 'File Cache', link: '/en/guide/todo' },
                     { text: 'File Encrypt', link: '/en/guide/todo' },
                     { text: 'File Compress', link: '/en/guide/todo' },
                     { text: 'Recycle Bin', link: '/en/guide/todo' },
