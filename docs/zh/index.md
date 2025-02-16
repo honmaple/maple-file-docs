@@ -26,8 +26,8 @@ features:
     details: 支持Web、Android、MacOS和Windows
   - title: 多协议
     details: 支持本地存储、S3、Webdav、FTP、SFTP、SMB、又拍云、Alist、Mirror
-  - title: 文件预览
-    details: 支持视频、音频、图片和文本文件的预览
+  - title: 文件操作和预览
+    details: 支持文件复制、移动、重命名、上传、下载，以及视频、音频、图片和文本文件的预览
   - title: 文件加密和压缩
     details: 保护隐私，通过AES加密技术避免你的文件被泄漏或被审查
   - title: 文件同步和备份
