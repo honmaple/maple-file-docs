@@ -2,8 +2,11 @@
   <img src="/images/logo.png" width="150" />
 </div>
 <div style="display: flex;justify-content: center;gap: 4px;">
-  <a href="https://github.com/honmaple/maple-file/releases/tag/v1.0.5" target="_blank">
-    <img src="https://img.shields.io/badge/release-1.0.5-brightgreen.svg">
+  <a href="https://github.com/honmaple/maple-file/releases/tag/v1.0.8" target="_blank">
+    <img src="https://img.shields.io/badge/release-1.0.8-brightgreen.svg">
+  </a>
+  <a href="https://apps.apple.com/us/app/maplefile/id6743229674" target="_blank">
+    <img src="https://img.shields.io/badge/app%20store-black.svg?logo=apple">
   </a>
   <a href="https://github.com/honmaple/maple-file/blob/master/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/license-GPL3.0-blue.svg">
@@ -23,6 +26,8 @@
   - [X] SFTP
   - [X] SMB
   - [X] Alist
+  - [X] Github
+  - [X] Github Release
   - [X] 又拍云
   - [X] 镜像站
 

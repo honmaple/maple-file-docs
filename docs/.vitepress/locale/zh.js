@@ -119,6 +119,14 @@ export const zh = defineConfig({
                 link: '/guide/drivers/webdav'
             },
             {
+                text: 'Github',
+                link: '/guide/drivers/github'
+            },
+            {
+                text: 'Github Release',
+                link: '/guide/drivers/github-release'
+            },
+            {
                 text: '又拍云',
                 link: '/guide/drivers/upyun'
             },

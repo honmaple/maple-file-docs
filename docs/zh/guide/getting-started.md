@@ -1,5 +1,8 @@
 # 安装使用
 
+## IOS
+IOS用户可以到 [App Store](https://apps.apple.com/us/app/maplefile/id6743229674) 下载安装
+
 ## MacOS
 MacOS用户可以下载并安装 [.dmg](https://github.com/honmaple/maple-file/releases)
 

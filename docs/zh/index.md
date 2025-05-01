@@ -15,6 +15,9 @@ hero:
       text: 立即下载
       link: https://github.com/honmaple/maple-file/releases
     - theme: alt
+      text: App Store
+      link: https://apps.apple.com/us/app/maplefile/id6743229674
+    - theme: alt
       text: 帮助文档
       link: /guide/introduction
 

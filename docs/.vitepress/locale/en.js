@@ -33,6 +33,8 @@ export const en = defineConfig({
                     { text: 'Alist', link: '/en/guide/todo' },
                     { text: 'Mirror', link: '/en/guide/todo' },
                     { text: 'Webdav', link: '/en/guide/todo' },
+                    { text: 'Github', link: '/en/guide/todo' },
+                    { text: 'Github Release', link: '/en/guide/todo' },
                     { text: 'upyun', link: '/en/guide/todo' },
                 ]
             }
