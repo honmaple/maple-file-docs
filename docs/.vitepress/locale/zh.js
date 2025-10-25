@@ -78,6 +78,10 @@ export const zh = defineConfig({
                 link: '/guide/features/compress'
             },
             {
+                text: '访问频率',
+                link: '/guide/features/ratelimit'
+            },
+            {
                 text: '回收站',
                 link: '/guide/features/recycle'
             },
@@ -117,6 +121,10 @@ export const zh = defineConfig({
             {
                 text: 'Webdav',
                 link: '/guide/drivers/webdav'
+            },
+            {
+                text: '115/夸克网盘',
+                link: '/guide/drivers/115'
             },
             {
                 text: 'Github',

@@ -2,18 +2,21 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: "Maple File"
+title: "MapleFile"
 titleTemplate: "Multi-protocol cloud file management"
 
 hero:
-  name: "Maple File"
+  name: "MapleFile"
   text: "Multi-protocol cloud file management"
   tagline: |
-    Maple File is a server-free multi-protocol cloud file upload and management software that provides file upload, preview, operation, synchronous backup and other features
+    MapleFile is a server-free multi-protocol cloud file upload and management software that provides file upload, preview, operation, synchronous backup and other features
   actions:
     - theme: brand
       text: Download
       link: https://github.com/honmaple/maple-file/releases
+    - theme: alt
+      text: App Store
+      link: https://apps.apple.com/us/app/maplefile/id6743229674
     - theme: alt
       text: Documents
       link: /en/guide/todo

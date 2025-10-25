@@ -16,7 +16,7 @@ hero:
       link: https://github.com/honmaple/maple-file/releases
     - theme: alt
       text: App Store
-      link: https://apps.apple.com/us/app/maplefile/id6743229674
+      link: https://apps.apple.com/cn/app/红枫云盘/id6743229674
     - theme: alt
       text: 帮助文档
       link: /guide/introduction
@@ -28,7 +28,7 @@ features:
   - title: 跨平台
     details: 支持Web、Android、MacOS和Windows
   - title: 多协议
-    details: 支持本地存储、S3、Webdav、FTP、SFTP、SMB、又拍云、Alist、Mirror
+    details: 支持本地存储、S3、Webdav、FTP、SFTP、SMB、又拍云、Alist、Mirror、115、夸克网盘
   - title: 文件操作和预览
     details: 支持文件复制、移动、重命名、上传、下载，以及视频、音频、图片和文本文件的预览
   - title: 文件加密和压缩

@@ -26,6 +26,8 @@
   - [X] SFTP
   - [X] SMB
   - [X] Alist
+  - [X] 115
+  - [X] 夸克网盘
   - [X] Github
   - [X] Github Release
   - [X] 又拍云
